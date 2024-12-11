@@ -14,4 +14,4 @@ This repository contains course certificates earned through Coursera online cour
 
 ## Repository Contents
 This repository contains:
-- PDF files of the course certificates for easy reference.
+- PDF files of the course certificates.
